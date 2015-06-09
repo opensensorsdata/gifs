@@ -3,15 +3,15 @@
 @import url( "normalize.css" );
 
 body{
-  font-family: "Myriad Pro", "Lucida Grande", Arial, sans-serif;
+  font-family: "Open Sans", "Lucida Grande", Arial, sans-serif;
   font-size:16px;
   line-height:1.5;
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 
 .page-header {
   width: 300px; height: 100%;
-  background-color: #15171b;
+  background-color: #f2f2f2;
   position: fixed;
   left: 0; top: 0; bottom: 0;
   color: white;
