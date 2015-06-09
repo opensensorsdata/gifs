@@ -2,8 +2,8 @@
 layout: home
 ---
 
-# Dem gifs tho
+# The Repo Gifs
 
-Oh Hai! You've found my Gif collection.
+it's a cruel world...
 
-Fork me on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
+thanks to [jglovier](https://github.com/jglovier/gifs)
